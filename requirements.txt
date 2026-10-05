@@ -1,0 +1,8 @@
+Py6S==1.9.2
+numpy>=1.21.0
+rasterio>=1.2.0
+GDAL>=3.4.0
+pillow>=8.0.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
